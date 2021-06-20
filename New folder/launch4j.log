@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Sharuka Thirimanne\Desktop\New folder\Automated Parking System.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Sharuka Thirimanne\Desktop\New folder\.
+Java min ver:	1.006.000
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_111
+Check launcher:	C:\Users\Sharuka Thirimanne\Desktop\New folder\bin\jre1.8.0_111\bin\javaw.exe (OK)
+Launcher:	C:\Users\Sharuka Thirimanne\Desktop\New folder\bin\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Sharuka Thirimanne\Desktop\New folder\Automated Parking System.exe"
+Args length:	82/32768 chars
+Exit code:	0
