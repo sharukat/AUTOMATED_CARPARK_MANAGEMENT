@@ -1,0 +1,2 @@
+# Automated Car Park Management System
+This is a desktop application coded in C programming language. It is capable of registering customers, display occupied/vacant slots, reserve them for a specific time period and it automatically generates receipts at the exit. Moreover, this consists of a email alerting system which notify the customer if the allocated time period is exceeded. In addition, if the vehicle is not moved from the parking slot within a specific timeframe after notifying, the reservation time will be automatically extended and charge accordingly. 
